@@ -57,13 +57,13 @@
 
 
     <!-- ANDROID -->
-    <splash src="images/splashscreen.png" platform="android" qualifier="ldpi" />
-    <splash src="images/splashscreen.png" platform="android" qualifier="mdpi" />
-    <splash src="images/splashscreen.png" platform="android" qualifier="hdpi" />
-    <splash src="images/splashscreen.png" platform="android" qualifier="xhdpi" />
-    <splash src="images/splashscreen.png" platform="android" qualifier="fr-xhdpi" />
-    <splash src="images/splashscreen.png" platform="android" qualifier="port-xxhdpi" />
-    <splash src="images/splashscreen.png" platform="android" qualifier="land-xxhdpi" />
+    <splash src="images/images/splashscreen.png" platform="android" qualifier="ldpi" />
+    <splash src="images/images/splashscreen.png" platform="android" qualifier="mdpi" />
+    <splash src="images/images/splashscreen.png" platform="android" qualifier="hdpi" />
+    <splash src="images/images/splashscreen.png" platform="android" qualifier="xhdpi" />
+    <splash src="images/images/splashscreen.png" platform="android" qualifier="fr-xhdpi" />
+    <splash src="images/images/splashscreen.png" platform="android" qualifier="port-xxhdpi" />
+    <splash src="images/images/splashscreen.png" platform="android" qualifier="land-xxhdpi" />
 
     <splash src="images/splashscreen.png" platform="winphone" />
 
